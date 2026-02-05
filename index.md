@@ -67,8 +67,6 @@ curl -X GET "https://api.emailverify.ai/v1/verify?email=test@example.com" \
 
 We provide official SDKs for popular programming languages. Each SDK includes single and bulk verification, credit management, webhook configuration, automatic retry logic, and rate limit handling.
 
-<div class="sdk-grid">
-
 ### Node.js / TypeScript
 
 Full JavaScript and TypeScript support for Node.js applications.
@@ -182,8 +180,6 @@ System.out.println(result.isValid());
 ```
 
 [Java SDK Docs →](https://emailverify.ai/docs/sdks/java)
-
-</div>
 
 ---
 

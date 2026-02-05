@@ -5,18 +5,12 @@ baseurl: ""
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
 
 # SEO
 author: EmailVerify.ai
-twitter:
-  card: summary_large_image
 
 # Exclude files
 exclude:
-  - company-introduction.md
   - README.md
   - Gemfile
   - Gemfile.lock
