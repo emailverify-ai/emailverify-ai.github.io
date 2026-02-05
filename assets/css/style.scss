@@ -41,6 +41,13 @@ h1 {
   margin-bottom: 0.5rem;
 }
 
+/* Logo */
+.logo {
+  height: 60px;
+  width: auto;
+  margin-bottom: 0.5rem;
+}
+
 h2 {
   margin-top: 3rem;
   padding-bottom: 0.5rem;
@@ -153,8 +160,8 @@ hr {
   margin: 2.5rem 0;
 }
 
-/* Strong text in first paragraph (tagline) */
-h1 + p strong {
+/* Strong text in tagline */
+.logo + p strong {
   font-size: 1.25rem;
   color: var(--text-muted);
   font-weight: 500;

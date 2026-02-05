@@ -3,7 +3,7 @@ layout: default
 title: EmailVerify.ai - Email Verification API & SDKs
 ---
 
-# EmailVerify.ai
+<img src="/assets/images/logo-text.svg" alt="EmailVerify.ai" class="logo">
 
 **Professional Email Verification API with 99.9% Accuracy**
 
