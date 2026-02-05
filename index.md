@@ -86,7 +86,7 @@ const result = await client.verify('test@example.com');
 console.log(result.is_valid);
 ```
 
-[Node.js SDK Docs →](https://emailverify.ai/docs/sdks/nodejs)
+[Node.js SDK Docs →](https://emailverify.ai/docs/sdks/node)
 
 ---
 
